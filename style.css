@@ -59,8 +59,10 @@ footer div {
   width: 90%;
   margin: auto;
   display: flex;
+  align-items: center;
 }
 footer h5 {
+  font-family: "Pattaya", sans-serif;
   color: white;
   flex: 1 1 30rem;
 }
